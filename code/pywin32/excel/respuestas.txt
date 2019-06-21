@@ -1,0 +1,1519 @@
+20090236_L3_V208_GHERSI_Previo.xlsx
+PREGUNTA 1A
+Misión: Proveer de soluciones a la medida en el rubro de encuestadoras, estudios de mercado y analitica, para satisfacer las necesidades de los clientes en el mercador nacional, con calidad, de manera sostenible y a largo plazo
+Visión: Ser el proveedor numero uno en el mercado nacional de soluciones de encuestas, estudios de mercado y analitica, proveendo a los clientes de soluciones de calidad, al instante y a la medida
+
+PREGUNTA 1B
+OEN1: Aumentar la oferta de soluciones de encuestas a todos los clientes en todas las localidades del pais - JUSTIF: COENSA busca aumentar la presencia nacional para posicionarse en el mercado y llegar todas las localidades
+OEN2: Diversifiar la oferta a traves de soulciones a la medida en el rubro de analiticas - JUSTIF: COENSA busca diversificar sus productos y proveer de soluciones a largo plazo
+
+PREGUNTA 2A
+Misión SI: Proveer una plataforma flexible para las operaciones de COENSA, que reduzca costos, provea informacion al instante y brinde servicios de analitica
+Visión SI: El sistema de informacion soportara las operaciones de la encuestadora, con enfasis en la entrega de informacion de calidad para la toma de decisiones y el uso adecuado de los recursos, tanto en la operacion actual como en las operaciones futuras en entornos cambiantes
+
+PREGUNTA 2B
+OESI1: Brindar informacion al instante en todos los locales de COENSA - OEN: Proveer soluciones de encuestas a todos los clientes en todas las localidades del pais
+OESI2: Brindar una plataforma para brindar soluciones a la medida a los clientes con el uso de los recursos y la flexibilidad de un sistema moderno a prueba de cambo - OEN: Diversifiar la oferta a traves de soulciones a la medida en el rubro de analiticas
+
+PREGUNTA 2C
+Criterio: Proyecto que aumenta la oferta de soluciones
+Justificación: Para cumplir con los objetivos de aumentar la oferta
+
+PREGUNTA 2C
+Criterio: Proyecto que aumenta la oferta de soluciones
+Justificación: Para cumplir con los objetivos de aumentar la oferta
+
+PREGUNTA 3A
+	Proyecto: Sistema de ingreso de encuestas
+	Descripción: Sistema para ingresar resultados de encuestas
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de rendimiento de trabajadores
+	Descripción: Sistema de seguimiento a los trabajdoresb
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Sistema de contabilidad a nivel nacional
+	Descripción: Sistema para unificar la contabilidad de las operaciones a nivel nacional
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de ingreso de informacion de fuentes externas
+	Descripción: Sistema que provee conexion con fuentes externas de informacion
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de ingreso de analiticas
+	Descripción: Sistema para ingresar informacion de analiticas
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de emision de analiticas
+	Descripción: Sistema para la emision de resultados de analiticas
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de analisis de nuevos locales
+	Descripción: Sistema que permite probar la creacion de nuevos locales de COENSA
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema de factibilidad de ofertas de mercado
+	Descripción: Sistema que ofrece el analisis de factibilidad de los nuevos productos a ser introducidos al mercado
+	MacFarlan: Estratégico - Tipo "MIS"
+
+PREGUNTA 3B
+Proyecto: Sistema de rendimiento de trabajadores
+Alcance: Rendimiento mensual, Analisis de rendimiento basado en datos ingresados, Incluye analisis por horario, Incluye analisis por localidad, Incluye personal nuevo
+Excluciones: Solo personal activo, Solo personal operativo, Solo personal formal, Solo rendimiento operativo, Solo personal capacitado
+Supociciones: Trabajadores formales, Todos los trabajadores son evaluados
+
+PREGUNTA 3C
+	Proyecto: Sistema de analisis de nuevos locales
+	Prio: 1.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de emision de analiticas
+	Prio: 2.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de factibilidad de ofertas de mercado
+	Prio: 3.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de rendimiento de trabajadores
+	Prio: 4.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de ingreso de encuestas
+	Prio: 5.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de contabilidad a nivel nacional
+	Prio: 6.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de ingreso de analiticas
+	Prio: 7.0  - Crit: Proyecto que aumenta la oferta de soluciones
+	Proyecto: Sistema de ingreso de informacion de fuentes externas
+	Prio: 8.0  - Crit: Proyecto que aumenta la oferta de soluciones
+
+PREGUNTA 3D
+
+20103656-L3-V208-VILLANUEVA-PREVIO.xlsx
+PREGUNTA 1A
+Misión: La misión de COENSA es llevar a cabo estudios de mercado de buena calidad para distintas partes del pais usando herramientas según el entorno actual.
+Visión: La visión de COENSA es sobresalir sobre cualquier otra empresa,afiansarse en su rubro y ampliar los servicios que brinda.
+
+PREGUNTA 1B
+OEN1: Ampliar las operaciones de COENSA a nivel regional - JUSTIF: Se trata de desconcentrar las operaciones en la sede central
+OEN2: Ampliar los servicios de COENSA - JUSTIF: Según el entorno y los nuevos competidores se necesita contar con más servicios que necesitan los clientes
+
+PREGUNTA 2A
+Misión SI: La misión del grupo de Sistemas de Información, en conjunto con las unidades de negocio, es facilitar la disponibilidad de información, dar soporte a las operaciones de negocio y dar apoyo para la toma de deciciones en los niveles de gerencia y alta dirección
+Visión SI: Buscamos ser un socio integral en el logro de la visión y la misión de la compañía a través de la aplicación adecuada de la tecnología de la información a las necesidades comerciales.
+
+PREGUNTA 2B
+OESI1: El grupo de Sistema de Información da apoyo y orientación a las nuevas oficinas en Provincia en el uso de tecnología y mejoras en los procesos de negocio. - OEN: Ampliar las operaciones de COENSA a nivel regional
+OESI2: Implementar nuevas soluciones con ayuda de los unidades de negocios. - OEN: Ampliar los servicios de COENSA
+
+PREGUNTA 2C
+Criterio: Expansión de la organización 
+Justificación: Priorización de las iniciativas que contribuyan con el fortalecimiento de la organización en otras ciudades.
+
+PREGUNTA 2C
+Criterio: Expansión de la organización 
+Justificación: Priorización de las iniciativas que contribuyan con el fortalecimiento de la organización en otras ciudades.
+
+PREGUNTA 3A
+	Proyecto: Implementación de nuevo servicio (Analytics)
+	Descripción: Se implementará el servicio de Analytics que ampliarán los servicios existentes de COENSA.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Implementación de mejoras de procesos internos
+	Descripción: Se implementarán mejoras en procesos internos que se han mapeado para mejorar la eficiencia de COENSA.
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Implementación de Sistemas en nuevas oficinas
+	Descripción: Se implementarán los sistemas en las nuevas oficinas para que puedan procesar información de la misma forma que la sede central.
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Implementación de sistema para guardar preferencias de clientes
+	Descripción: Se implementará un sistema para poder contar con las preferencias de los clientes.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Instalación de herramientas tecnológicas en nuevas oficinas
+	Descripción: Se instalarán herramientas necesarias para llevar a cabo las operaciones de la empresa en las nuevas oficinas
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Implementación de sistema para alta dirección para visualizar los resultados de la empresa
+	Descripción: Se implementará sistema exclusivo para Alta Dirección para poder tomar decisiones
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Análisis de las necesidades que debe tener el nuevo sistema de información.
+	Descripción: Se llevará a cabo un estudio con los usuarios finales 
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Implementación del nuevo Sistema de Información
+	Descripción: Se implementará un nuevo sistema de información según las necesidades encontradas
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Implementación de nuevo servicio (Analytics)
+Alcance: Se revisará los requerimientos que necesitará este nuevo servicio, Se definirá el alcance del servicio, None, None, None
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Implementación de Sistemas en nuevas oficinas
+	Prio: 1.0  - Crit: Expansión de la organización 
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+
+PREGUNTA 3D
+
+20110114_L3_V208_CASTANEDA_PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindar servicios de auditoría satisfaciendo las espectativas de los clientes a nivel nacional.
+Visión: Ofrecer sus servicios en el país y tener mayor reconocimiento por parte de las empresas.
+
+PREGUNTA 1B
+OEN1: Brindar servicios de "Analytics" - JUSTIF: Agrega mayor valor agregado a los clientes. Destacaría frente a la competencia.
+OEN2: Enfocarse en otras sedes - JUSTIF: Distribuir el trabajo en otras sedes mejorará la eficiencia del trabajo al no enfocarlos todos en la sede principal. 
+
+PREGUNTA 2A
+Misión SI: Gestionar la información de la consultora de manera flexible a travéz del sistema de información.
+Visión SI: El sistema debe contribuir de manera eficaz y eficiente a los requerimientos y deciciones de la alta dirección y gerencia
+
+PREGUNTA 2B
+OESI1: Proporcionar la información de la consultora de manera sencilla - OEN: Brindar servicios de "Analytics"
+OESI2: Poder manejar la información de las sedes independientemente - OEN: Enfocarse en otras sedes
+
+PREGUNTA 2C
+Criterio: Satisfacción de los clientes
+Justificación: Teniendo en cuenta la opinión de los clientes frente al servicio, se podrá mejorar la ejecución del servicio. También se obtiene lo que el cliente espera de este.
+
+PREGUNTA 2C
+Criterio: Satisfacción de los clientes
+Justificación: Teniendo en cuenta la opinión de los clientes frente al servicio, se podrá mejorar la ejecución del servicio. También se obtiene lo que el cliente espera de este.
+
+PREGUNTA 3A
+	Proyecto: Sistema que ofrezca servicios de Analytics
+	Descripción: Sistema facilitará los servicios de la empreza y brindará un servicio de calidad hacia sus clientes
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de planeación y formulación de encuestas
+	Descripción: Sistema que integrará las funciones de consulta para las encuestas
+	MacFarlan: Clave para Operar - Tipo "DSS"
+
+	Proyecto: Plataforma que permita a los clientes interactuar con los trabajadores
+	Descripción: Plataforma permitirá simplificar la comunicación entre los clientes y los trabajodes para consultas, sugerencias o quejas.
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema que gestione la información de los clientes
+	Descripción: Sistema organizará y gestionará la información rescatada de los clientes atendidos
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de evaluación e informes de una sede
+	Descripción: Sistema gestionará las sedes para verificar su estado mediante la generación de informes
+	MacFarlan: Clave para Operar - Tipo "DSS"
+
+	Proyecto: Sistema de análisis de encuestas
+	Descripción: Sistema señalará un estimado de las encuestas por cada sede
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema que permita medir el desempeño de los trabajadores
+	Descripción: Sistema verificará y visualizará el desempeño laboral de los trabajadores por sede
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema que guarde la información de los clientes para su análisis y procesamiento
+	Descripción: Sistema almacenará la información importante de los clientes para su análisis y rescate de datos, manteniendo la privacidad de estos.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Sistema que ofrezca servicios de Analytics
+Alcance: Implementar el sistema en el tiempo acordado, None, None, None, None
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema que ofrezca servicios de Analytics
+	Prio: 1.0  - Crit: Es el plan principal sugerido por la consultora a realizarce.
+	Proyecto: Sistema de evaluación e informes de una sede
+	Prio: 2.0  - Crit: Al querer expandir sus sedes y la distribución de información, este sistema es importante para tener un control de estas.
+	Proyecto: Sistema que guarde la información de los clientes para su análisis y procesamiento
+	Prio: 3.0  - Crit: Guardar la información de los clientes frecuentados para la obtención de información es primordial en el negocio.
+	Proyecto: Sistema de planeación y formulación de encuestas
+	Prio: 4.0  - Crit: Al ser una consultora, el nivel de las encuestas realizadas debe de estar acorde y ser lo suficientemente efectivas.
+	Proyecto: Sistema de análisis de encuestas
+	Prio: 5.0  - Crit: Se debe de tener estadísticas de las encuestas para la toma de decisiones del negocia a realizar.
+	Proyecto: Plataforma que permita a los clientes interactuar con los trabajadores
+	Prio: 6.0  - Crit: Facilitar el contacto entre los clientes y el negocio da confianza, seguridad y mayor alcance.
+	Proyecto: Sistema que gestione la información de los clientes
+	Prio: 7.0  - Crit: Gestionar la información recolectada de los clientes no es tan relevante a comparación de guardar la información.
+	Proyecto: Sistema que permita medir el desempeño de los trabajadores
+	Prio: 8.0  - Crit: Se debe tener un control de los trabajadores, mas no es primordial ya que es un adicional con respecto a lo que la empresa considera más importante.
+
+PREGUNTA 3D
+
+20120697-L3-V208-ASHTU-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindar servicios especializados de consultoría, encuestas y Analytics, con un alto estándar de calidad y confiabilidad para nuestros clientes
+Visión: Para el 2025, ser una  empresa encuestadora y consultora líder en el país, con 10 oficinas a nivel nacional, incorporando nuevas tecnologías al mercado peruano
+
+PREGUNTA 1B
+OEN1: Ampliar el número de oficinas a nivel nacional - JUSTIF: Debido a que la empresa tiene mayor expansión en diferentes regiones del país, para poder procesar la información que se ha recopilado en las encuestas realizadas
+OEN2: Mejorar el nuevo servicio de Analytics - JUSTIF: Debido a que la empresa brindara un valor agregado a las encuestas realizadas, mediante las nuevas herramientas de Analytics incorporando nuevas tecnologías que existan en el país
+
+PREGUNTA 2A
+Misión SI: El sistema debe cumplir todas las gestiones y procesos de la empresa, además de lograr una maximización económica, verificando de satisfacer con los altos estándares de calidad de la información procesada
+Visión SI: El sistema debe contribuir a alcanzar la visión de la empresa propuesta para el 2025, para lo cual se debe instalar nueva infraestructura en diversas provincias ubicadas estratégicamente, teniendo en cuenta el procesamiento de la información, el servicio de Analytics y además de la disponibilidad en todos los horarios de operación de los encuestadores
+
+PREGUNTA 2B
+OESI1: Los procesos se supervisarán a través de indicadores que evaluen el rendimiento de los empleados en la ejecución de las encuestas/Analytics o estudios de mercados - OEN: Mejorar el nuevo servicio de Analytics
+OESI2: Desarrollar soluciones personalizadas de acuerdo a lo solicitado por nuestro cliente, y almacenar la información por oficina, y consolidarla luego a nivel nacional - OEN: Ampliar el número de oficinas a nivel nacional
+
+PREGUNTA 2C
+Criterio: Impacto en la proporción costo/beneficio
+Justificación: Se priorizará la elaboración de los proyectos que generen una mayor proporcion de costo/beneficio con lo cual se incrementarían las utilidades de la empresa
+
+PREGUNTA 2C
+Criterio: Impacto en la proporción costo/beneficio
+Justificación: Se priorizará la elaboración de los proyectos que generen una mayor proporcion de costo/beneficio con lo cual se incrementarían las utilidades de la empresa
+
+PREGUNTA 3A
+	Proyecto: Sistema de información para procesar la información de las encuestas
+	Descripción: Este sistema de información, se encarga de recopilar la información de los encuestadores,  que fueron procesadas en las "Sedes Regionales"
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de información para almacenar  y procesar la información de nuestros clientes
+	Descripción: La empresa, requiere un sistema de información para almacenar la información de satisfacción de clientes, guardando sus preferencias y restricciones personales de los clientes
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de información para los gráficos estadísticos de las encuestas realizadas
+	Descripción: La información procesada debe ser estandarizada de acuerdo a ciertas métricas para que pueda mostrarse gráficos estadísticos que les den valor al cliente
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de información que brinde el nuevo servicio de Analytics
+	Descripción: El área consultora de  COENSA, requiere brindar un nuevo servicio Analytics para generar un valor agregado para sus clientes, manteniendo los altos estándares de calidad
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de información para las finanzas de la empresa
+	Descripción: La empresa necesita un sistema de información donde se administre sus finanzas, para poder conocer sus ingresos, egresos y las utilidades que se está generando
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de información de recursos humanos 
+	Descripción: La empresa, requiere de un sistema de información de recursos humanos, que le ayudará para contratar personal, pago de personal a tiempo, y algunos beneficios o bonos de acuerdo a su rendimiento
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de información para la automatización del control de calidad de la información
+	Descripción: La empresa, requiere un sistema de información para poder automatizar el proceso de control de calidad en la información procesada de las encuestas
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema de información que ayude a los gerentes de la empresa
+	Descripción: La empresa, requiere un sistema de información para ayudar a la toma de decisiones a un alto nivel, una de ellas es el plan de expansión de las nuevas oficinas a nivel nacional
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Sistema de información para procesar la información de las encuestas
+Alcance: El SI funcionará en sistema operativo Windows 8 o superior., El SI tendrá actualizaciones periódicas., El SI necesita estar conectado a internet para funcionar., Se podrá exportar los reportes en Excel (xls) y en PDF (pdf)., Se tendrá de almacenamiento 800 TB de información como máximo.
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: No habrá interoperabitibilidad con otros sistemas de información  que no sean parte de COENSA, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de información para procesar la información de las encuestas
+	Prio: 1.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información para almacenar  y procesar la información de nuestros clientes
+	Prio: 2.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información para los gráficos estadísticos de las encuestas realizadas
+	Prio: 3.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información de recursos humanos 
+	Prio: 4.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información para las finanzas de la empresa
+	Prio: 5.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información para la automatización del control de calidad de la información
+	Prio: 6.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información que brinde el nuevo servicio de Analytics
+	Prio: 7.0  - Crit: Impacto en la proporción costo/beneficio
+	Proyecto: Sistema de información que ayude a los gerentes de la empresa
+	Prio: 8.0  - Crit: Impacto en la proporción costo/beneficio
+
+PREGUNTA 3D
+Si hay project
+
+20130917-L3-V208-GANTO-PREVIO.xlsx
+PREGUNTA 1A
+Misión: COENSA quiere ofrecer servicios de calidad de como encuestadora y consultora para mantener satisfechos a sus clientes
+Visión: COENSA quiere llegar a estar entre los líderes en el mercado nacional como encuestadora y consultora
+
+PREGUNTA 1B
+OEN1: Lograr la automatizacion de procesos que no esten dentro de un sistema o módulo de un sistema mediante el uso de TIC's - JUSTIF: Con el uso de TIC´s para los sistemas para los procesos que sean necesarios, no es necesario usar en todo proceso no automatizado, se generarän beneficios para COENSA
+OEN2: Cobertura de los servicios de COENSA a las diferentes regiones de Perú - JUSTIF: Con la futura creación de dos locales regionales (sur y norte) se podrá logarar de manera mas eficiente una cobertura nacional
+
+PREGUNTA 2A
+Misión SI: Llegar a gestionar e integrar todos los procesos necesarios de COENSA para brindar servicios de calidad internamente y externamente
+Visión SI: Fortalecer la renovación total en tecnología de infraestructura y licenciamiento en toda la organización
+
+PREGUNTA 2B
+OESI1: Unificación de formatos de datos para diferentes procesos - OEN: Lograr la automatizacion de procesos que no esten dentro de un sistema o módulo de un sistema mediante el uso de TIC's
+OESI2: Interconexión entre diferentes sedes de COENSA a nivel Lima y regional - OEN: Cobertura de los servicios de COENSA a las diferentes regiones de Perú
+
+PREGUNTA 2C
+Criterio: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+Justificación: Ya que se esta usando el S.I. para mejorar los procesos dentro de la empresa, habra procesos que se veran mas beneficiados con otros por el uso del S.I. en ellos ya que no en todos se necesita el uso de tecnología totalmente
+
+PREGUNTA 2C
+Criterio: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+Justificación: Ya que se esta usando el S.I. para mejorar los procesos dentro de la empresa, habra procesos que se veran mas beneficiados con otros por el uso del S.I. en ellos ya que no en todos se necesita el uso de tecnología totalmente
+
+PREGUNTA 3A
+	Proyecto: Sistema de Gestión de Consultorías
+	Descripción: Sistema que ayuda a entregar informacion  necesaria para cada consultoría hecha por COENSA
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión de Encuestas
+	Descripción: Sistema que permitirá el ingreso de datos de las encuestas hechas en todas las regiones presentes
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema Contable
+	Descripción: Sistema que permitirá el ingreso de datos necesarios para la creación de los estados financieros y las obligaciones de pago por parte de COENSA
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de Control de Trabajadores
+	Descripción: Sistema que permitirá llevar el control de los daots de los trabajadores, asi como la cantidad de estos en las diferentes regiones
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión de Servicios Tercerizados
+	Descripción: Sistema que permitirá la administración de servicios tercerizados a COENSA, no se sabe con certeza si generará valor para la empresa
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de Factibilidad de Encuestas
+	Descripción: Sistema que permitirá conocer a la alta dirección la factibilidad de seguir haciendo encuestas, no necesariamente generará valor para la empresa
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Sistema de Generación de Analytics
+	Descripción: Sistema que ayuda a entregar el nuevo servicio de "Analytics" para sus clientes
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión de Reportes
+	Descripción: Sistema que ayudara a brindar reportes de diferentes procesos en la empresa para la toma de decisiones de la alta dirección
+	MacFarlan: Estratégico - Tipo "MIS"
+
+PREGUNTA 3B
+Proyecto: Sistema de Gestión de Encuestas
+Alcance: Ingreso de datos con formato definido de encuestas, Ingreso desde todas las regiones donde se hagan encuestas, Información de que usuario ingreso las diferentes encuestas, Ayudará a brindar la información de estas encuestas para diferentes servicios, Unificación de toda la data en un solo sistema
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de Gestión de Consultorías
+	Prio: 1.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Gestión de Encuestas
+	Prio: 1.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Gestión de Reportes
+	Prio: 2.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Generación de Analytics
+	Prio: 2.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema Contable
+	Prio: 3.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Control de Trabajadores
+	Prio: 4.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Factibilidad de Encuestas
+	Prio: 5.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+	Proyecto: Sistema de Gestión de Servicios Tercerizados
+	Prio: 6.0  - Crit: Beneficio obtenido (tiempo, costo, etc) del proyecto con el S.I
+
+PREGUNTA 3D
+Si hay project
+
+20140445-L3-V08-ARGUMANIS-PREVIO.xlsx
+PREGUNTA 1A
+Misión: La misión de COENSA es brindar un excelente servicio de consultoría y "Analytics" a sus empresas clientes distribuídas en todo el país.
+Visión: La visión de COENSA es ser la empresa líder en el servicio de consultoría y "Analytics" en el Perú.
+
+PREGUNTA 1B
+OEN1: Identificar las preferencias personales de los clientes, facilitando la toma de decisiones relacionada a los planes de negocio de COENSA. - JUSTIF: Conocer las preferencias personales de los clientes le permitirá a COENSA desarrollar un plan de negocio que ofrezca servicios alineados a estas preferencias, garantizando la satisfacción de los clientes.
+OEN2: Adaptar los procesos internos para poder brindarle a sus clientes el servicio de "Analytics". - JUSTIF: Este nuevo servicio le brindará un mayor valor agregado a los clientes, y permitirá aprovechar los resultados de las encuestas que realiza COENSA.
+
+PREGUNTA 2A
+Misión SI: Contar con un sistema de información flexible que le permita a COENSA gestionar su información y procesos actuales, y que a la vez le permita la incorporación de procesos futuros.
+Visión SI: Contar con un sistema que supere a la competencia en seguridad y eficiencia al gestionar la información y los procesos de COENSA.
+
+PREGUNTA 2B
+OESI1: Contar con un sistema de información que soporte las operaciones actuales de negocio, con la flexibilidad para apoyar nuevos planes de negocio. - OEN: Adaptar los procesos internos para poder brindarle a sus clientes el servicio de "Analytics".
+OESI2: Contar con un sistema de información que facilite los requerimientos y decisiones de los niveles de gerencia y alta dirección. - OEN: Identificar las preferencias personales de los clientes, facilitando la toma de decisiones relacionada a los planes de negocio de COENSA.
+
+PREGUNTA 2C
+Criterio: Toma de decisiones de gerencia y alta dirección
+Justificación: Una correcta toma de decisiones tendrá un gran impacto en las operaciones de COENSA.
+
+PREGUNTA 2C
+Criterio: Toma de decisiones de gerencia y alta dirección
+Justificación: Una correcta toma de decisiones tendrá un gran impacto en las operaciones de COENSA.
+
+PREGUNTA 3A
+	Proyecto: Sistema de gestión de clientes
+	Descripción: Gestiona preferencias personales de los clientes, priorizándolas para ofrecer servicios que satisfagan a los clientes de la mejor forma.
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Sistema de Analytics
+	Descripción: Permite gestionar los procesos del nuevo servicio de Analytics. 
+	MacFarlan: Alto Potencial - Tipo "MIS"
+
+	Proyecto: Sistema de gestión de oficinas
+	Descripción: Gestiona información de las 3 oficinas principales de COENSA.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de requerimientos y decisiones de la gerencia y alta dirección
+	Descripción: Facilita la toma de decisiones de la gerencia y alta dirección en base a la información de COENSA.
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Sistema de optimización de rutas
+	Descripción: Permite optimizar las rutas que seguirán los encuestadores al aplicar las encuestas.
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Web service con información de COENSA
+	Descripción: Permite que trabajadores desde todas las localidades puedan acceder a la información y funcionalidades del sistema de COENSA.
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Sistema de gestión de personal
+	Descripción: Gestiona información de los encuestadores y del personal en planilla.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de procesamiento de datos de encuestas
+	Descripción: Procesa los datos de las encuestas, de manera que presenten el formato requerido por el cliente.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Sistema de requerimientos y decisiones de la gerencia y alta dirección
+Alcance: Visualización de tendencias de demanda por temporada., Visualización de tendencias de demanda por cliente., Visualización de distribución de empresas de clientes., Visualización de distribución de sedes de COENSA., Generación de avisos que notifiquen a todo el personal.
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de requerimientos y decisiones de la gerencia y alta dirección
+	Prio: 1.0  - Crit: Toma de decisiones de gerencia y alta dirección
+	Proyecto: Sistema de gestión de clientes
+	Prio: 2.0  - Crit: Valor agregado a COENSA
+	Proyecto: Sistema de Analytics
+	Prio: 3.0  - Crit: Valor agregado a COENSA
+	Proyecto: Web service con información de COENSA
+	Prio: 4.0  - Crit: Valor agregado a COENSA
+	Proyecto: Sistema de optimización de rutas
+	Prio: 5.0  - Crit: Eficiencia de procesos
+	Proyecto: Sistema de procesamiento de datos de encuestas
+	Prio: 6.0  - Crit: Gestión de información
+	Proyecto: Sistema de gestión de oficinas
+	Prio: 7.0  - Crit: Gestión de información
+	Proyecto: Sistema de gestión de personal
+	Prio: 8.0  - Crit: Gestión de información
+
+PREGUNTA 3D
+Si hay project
+
+20140831-L3-V208-Cachis-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Ofrecer un servicio integro para la obtención de información según los requisitos de nuestros clientes con el fin de ayudarlos a tomar decisiones empresariales. Llegar a conocer las necesidades del mercado peruano para ofrecer estadísitcas que ayuden a conocer mejor distintos ámbitos de la sociedad peruana
+Visión: Ser la empresa lider del mercado peruano en el rubro encuestador. Ofreciendo diversos servicios para la obtención de información y generación de estadística a nivel nacional.
+
+PREGUNTA 1B
+OEN1: Diversificación de servicios de encuestas con nuevas tecnologías - JUSTIF: Al cumplir este objetivo se diversifica la clientela, logrando llegar a nuevas empresas de diferentes rubros
+OEN2: Otorgar herramientas informaticas a los trabajadores a fin de facilitar tareas internas - JUSTIF: Con el cumplimiento de este objetivo, se reduciran costos y tiempos en procesos internos de la empresa
+
+PREGUNTA 2A
+Misión SI: Servir de apoyo a las tareas internas de la empresa por medio de tecnologías de información. Asimismo,  ser un apoyo, eficaz y eficiente para la gerencia y la alta dirección. 
+Visión SI: Llegar a ser un sistema dispinible y flexible especializado  en cada localidad con especificaciones según la región en la que se encuentra.
+
+PREGUNTA 2B
+OESI1: Automatizar procesos internos de la empresa para facilitar tareas manuales - OEN: Otorgar herramientas informaticas a los trabajadores a fin de facilitar tareas internas
+OESI2: Diversificar los servicios ofrecidos incluyendo servicios con tecnologías a los clientes - OEN: Diversificación de servicios de encuestas con nuevas tecnologías
+
+PREGUNTA 2C
+Criterio: Beneficio aportado a las actividades de la empresa
+Justificación: El beneficio se mide según el valor agregado para los procesos de la empresa. Cuando se automatiza un proceso, se beneficia a toda la actividad que este cumple.
+
+PREGUNTA 2C
+Criterio: Beneficio aportado a las actividades de la empresa
+Justificación: El beneficio se mide según el valor agregado para los procesos de la empresa. Cuando se automatiza un proceso, se beneficia a toda la actividad que este cumple.
+
+PREGUNTA 3A
+	Proyecto: Sistema de Gestión de Personal
+	Descripción: Sistema que utiliza el área de Recursos Humanos para el registro y manipulación de datos del personal e información de sueldos y bonificaciones.
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Módulo de Registro de Información
+	Descripción: Permite el registro de información recopilada de las encuestas. Se registra el código de la encuesta y la información de cada una, el módulo es operado por cada sede
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Módulo de Generación de estadísticas
+	Descripción: Permite visualizar una serie de reportes pre programados que consume la data registrada en las diferentes sedes, estos se pueden exportar para ser utilizados la elaboración de informes
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión de clientes
+	Descripción: Permite el registro y manipulación de los datos de los clientes, así como sus preferencias de servicios de encuestas
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Systema de Analytics
+	Descripción: Permite analizar los patrones de demanda de los clientes a fin de generar estadísticas para ofrecer servicios acordes a la demanda
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Módulo de Generación de Reportes para el Cliente
+	Descripción: Módulo en el cual el usuario es el cliente, este puede visualizar las actualizaciones de sus encuestas e ir viendo el proceso de recolección de estas
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Plataforma  de Encuestas On-line para línea de servicios "Encuestas On-line"
+	Descripción: Esta plataforma ayuda a agregar una nueva línea de servicios de encuestas online, diversificando así los servicios ofrecidos. El hecho de tener una plataforma de encuestas online, facilita el recojo de información ya que no tiene que haber una transcripción física de la información. Asimismo, los clientes pueden ver los formularios y recomendar a quien enviar dichas encuestas, obteniendo un servicio mas especializado
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de simulación de escenarios de la empresa
+	Descripción: Permite identificar cómo ciertas variables afectan en la contabilidad de la empresa. Es utilizada por la Alta Dirección
+	MacFarlan: Estratégico - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Sistema de Gestión de Personal
+Alcance: Documento de Requerimientos de Sistema de Gestión de Personal, Documento de Arquitectura de Sistema de Gestión de Personal, Implementación de Módulo de Registro de Personal, Implementación de Módulo de Visualización de Datos de Personal, Implementación de Módulo de Pagos a Personal
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Módulo de Registro de Información
+	Prio: 9.0  - Crit: Se prioriza en segundo nivel porque es el paso previo a la generación de estadísticas. El beneficio que otorga reducira el tiempo y costo que se consumía enviando encuestas hasta la sede central. Si bien es mas caro porque se necesitan licencias para cada provincia, el beneficio prevalece
+	Proyecto: Interfaz para Sede Central que integre módulos de registros de información de localidades
+	Prio: 8.0  - Crit: Si bien es el complemento del registro de información, por ser una misma etapa y porque el beneficio es de reducir posibilidad a robos o pérdida de data, este se prioriza después ya que es necesario tener la data registrada para poder visualizarla en la interfaz. Es mas costoso que el anterior, pero solo se aplica a la sede central-.
+	Proyecto: Sistema de simulación de escenarios de la empresa
+	Prio: 8.0  - Crit: Este sistema tiene un gran impacto en las decisiones de la alta gerencia para diferentes aspectos por lo que se prioriza
+	Proyecto: Sistema de Gestión de Personal
+	Prio: 7.0  - Crit: Se prioriza porque al presentar actualmente muchos problemas en la organización a nivel de gestión de personal, el beneficio que aporta a la empresa será muy util. Asimismo, como es un software que manejara solo el área de RRHH no es muy caro
+	Proyecto: Sistema de Gestión de clientes
+	Prio: 7.0  - Crit: Este módulo remplaza varias actividades que actualmente se realizan manualmente y no genera un gran costo para la empresa
+	Proyecto: Systema de Analytics
+	Prio: 6.0  - Crit: El módulo sería usado por el área de consultoría por lo no que no generaun gran costo. Sin embargo aporta a la decisiones de la elaboración de nuevos servicios
+	Proyecto: Módulo de Generación de estadísticas
+	Prio: 5.0  - Crit: El beneficio de este módulo es aliviar la carga manual y mental por parte de los empleados que elaboran los informes finales con la generación de estadísticas automática. Se necesitan licencias para el equipo de redacción de informes.
+	Proyecto: Plataforma  de Encuestas On-line para línea de servicios "Encuestas On-line"
+	Prio: 4.0  - Crit: Facilita la recopilación de información, amplia la diversificación de servicios ofrecidos y reduce la carga manual de transcripción de datos fíicos. Puede ser algo costoso ya que se debe mantener una plataforma web con acceso a bases de datos
+
+PREGUNTA 3D
+Si hay project
+
+20140967-L3-V208-ARANA-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindar un servicio de consultoría y encuestas para nuestros clientes, que permitan cumplir sus metas. 
+Visión: Ser la empresa líder en encuestas y consultoría, en base a la optimización de análisis de nuestros clientes para cumplir sus metas.
+
+PREGUNTA 1B
+OEN1: Recopilar encuestas de manera eficiente y eficaz, respondiendo a las necesidades de los clientes. - JUSTIF: Esto puede ser logrado, pues se dará un mayor abasto gracias a las dos nuevas sedes que descentralizarían el trabajo de la central en Lima.
+OEN2: Brindar servicio de consultoría, aumentando la oferta gracias al servicio de Analytics, incrementando el consumo de la marca COENSA. - JUSTIF: Se aumentará el número de clientes al brindar un valor agregado al servicio actual que brindan otras compañías dentro del mercado.
+
+PREGUNTA 2A
+Misión SI: Ser la herramienta de soporte para los empleados para darles acceso al registro y acceso de información de manera óptima e integrada.
+Visión SI: Ser la herramienta predilecta de los empleados y la alta dirección gracias al soporte en la toma de decisiones debido al manejo de la información.
+
+PREGUNTA 2B
+OESI1: Permitir el registro óptimo de información para la sección de encuestas de la compañía. - OEN: Recopilar encuestas de manera eficiente y eficaz, respondiendo a las necesidades de los clientes.
+OESI2: Brindar la informacón necesaria para realizar consultoría gracias al servicio de analytics integrado, permitiendo toma de decisiones de la alta gerencia. - OEN: Brindar servicio de consultoría, aumentando la oferta gracias al servicio de Analytics, incrementando el consumo de la marca COENSA.
+
+PREGUNTA 2C
+Criterio: Se debe de priorizar el proyecto de TI que genere mayor impacto en las estrategias futuras.
+Justificación: Como la empresa ya tiene un periodo de tiempo trabajando con la sección operacional, el sistema de información debe de hacer énfasis en el elemento diferenciador frente a otras empresas consultoras (que en este caso es la implementación del servicio de analytics).
+
+PREGUNTA 2C
+Criterio: Se debe de priorizar el proyecto de TI que genere mayor impacto en las estrategias futuras.
+Justificación: Como la empresa ya tiene un periodo de tiempo trabajando con la sección operacional, el sistema de información debe de hacer énfasis en el elemento diferenciador frente a otras empresas consultoras (que en este caso es la implementación del servicio de analytics).
+
+PREGUNTA 3A
+	Proyecto: Sistema de registro de encuestas y consultoría
+	Descripción: Sistema netamente operativo que permitirá que los encuestadores puedan almacenar los datos obtenidos en cada encuesta en un repositorio virtual.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de descentralización de la información
+	Descripción: Integración del sistema para que pueda ser descentralizado en provincia con las otras sedes creadas y se pueda validar la información que proveen los encuestadores y consultores.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de registro y gestión de restricciones/preferencias por empresa
+	Descripción: Sistema de soporte con la información básica de registro de cada empresa, que permite configurar las preferencias o restricciones.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistma de registro de cartera de empresas
+	Descripción: Se permite la creación del perfil de las empresas a encuestar para que sean distribuidas a cada uno de los encuestadores y consultores.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de reporte de avance de encuestadores/consultores
+	Descripción: Este proyecto permitirá a la alta dirección el monitoreo de los encuestadores y consultores para saber el avance de encuestas en base al registro.
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Sistema de decisión de continuidad con empresas
+	Descripción: Permitirá tomar decisiones de continuidad de empresas, en base al beneficio y costo de oportunidad que genere contar con esta dentro de la cartera.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema de ecosistema de empresas
+	Descripción: Este sistema permitirá conectar a las empresas relacionadas con sus clientes y proveedores para poder generar una red de contactabilidad y poder capturar a las empresas que no trabajen actualmente con COENSA. Esto permitirá una expansión de cartera a nivel nacional.
+	MacFarlan: Alto Potencial - Tipo "MIS"
+
+	Proyecto: Sistema de análisis de información de las encuestas
+	Descripción: Este sistema permitirá un soporte innovador en la toma de decisiones de los clientes gracias a la información que COENSA brindará gracias al servicio de Analytics que será implementado.
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Sistema de registro de encuestas
+Alcance: Ingresar una encuesta/consultoría, Modificar una encuesta/consultoría, Eliminar una encuesta/consultoría, Consultar las encuestas/consultoría, Migración automática de encuestas pasadas
+Excluciones: Relacionar encuesta con consultoria, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de análisis de información de las encuestas
+	Prio: 10.0  - Crit: Es el valor agregado principal de la empresa, por lo cual brinda alto valor estratégico.
+	Proyecto: Sistema de decisión de continuidad con empresas
+	Prio: 9.0  - Crit: Es un análisis estratégico para determinar la cartera de clientes con los que la empresa trabajará.
+	Proyecto: Sistema de reporte de avance de encuestadores/consultores
+	Prio: 7.0  - Crit: Permite la toma de decisiones en cuanto al personal con los que cuenta COENSA, y el nivel de avance de cada uno permite saber también qué tan relevantes son las empresas con las que trabaja el empleado.
+	Proyecto: Sistema de ecosistema de empresas
+	Prio: 7.0  - Crit: Se permite armar una red de contactabilidad estratégica para captar mayor número de clientes.
+	Proyecto: Sistema de registro de encuestas
+	Prio: 6.0  - Crit: Se registra la información principal de negocio que es operativo a nivel de encuestas.
+	Proyecto: Sistma de registro de cartera de empresas
+	Prio: 6.0  - Crit: Se registra la información principal de empresas que son clientes.
+	Proyecto: Sistema de registro y gestión de restricciones/preferencias por empresa
+	Prio: 5.0  - Crit: Es un sistema basado en la información de restricciones de la empresa que no genera mucho valor agregado.
+	Proyecto: Sistema de descentralización de la información
+	Prio: 4.0  - Crit: Es un sistema basado en la sección operacional netamente.
+
+PREGUNTA 3D
+Si hay project
+
+20141056-L3-V208-PEDRAZA-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Ayudar a empresas y organizaciones a alcanzar su máximo potencial brindándoles información y recomendaciones de valor
+Visión: Ser la empresa líder en consultoría y encuestas del Perú
+
+PREGUNTA 1B
+OEN1: Generar encuestas con resultados valiosos para el cliente, de manera rápida y eficiente - JUSTIF: Con un sistema de información adecuado, este objetivo es posible.
+OEN2: Proporcionar un servicio de consultoría personalizado, aprovechando los resultados de las encuestas previas realizadas. - JUSTIF: Utilizar las encuestas como elemento diferenciador de otras consultoras para tener una ventaja competitiva.
+
+PREGUNTA 2A
+Misión SI: Facilitar la disponibilidad y precisión de la información de la empresa necesarias para una dirección y toma de decisiones estratégica
+Visión SI: Ser una herramienta a la que toda la empresa pueda tener acceso y que soporte las demandas competitivas del negocio
+
+PREGUNTA 2B
+OESI1: Automatizar el registro de encuestas y facilitar la generación de insights - OEN: Generar encuestas con resultados valiosos para el cliente, de manera rápida y eficiente
+OESI2: Conectar el servicio de consultoria con las encuestas realizadas de acuerdo a las necesidades del cliente - OEN: Proporcionar un servicio de consultoría personalizado, aprovechando los resultados de las encuestas previas realizadas.
+
+PREGUNTA 2C
+Criterio: Nivel de impacto en servicios de consultoria presentes o futuras
+Justificación: Consideremos que hay un proceso previo a la consultoría (las encuestas) que nos diferencia de las demás empresas de consultoría y su impacto debe ser valorado.
+
+PREGUNTA 2C
+Criterio: Nivel de impacto en servicios de consultoria presentes o futuras
+Justificación: Consideremos que hay un proceso previo a la consultoría (las encuestas) que nos diferencia de las demás empresas de consultoría y su impacto debe ser valorado.
+
+PREGUNTA 3A
+	Proyecto: Sistema de contabilidad
+	Descripción: Sistema que gestiona el ingreso y salida de dinero relacionado tanto a servicios de encuestas como de consultoría
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de recursos humanos
+	Descripción: Sistema para el pago y gestión de los trabajadores de la empresa
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de gestión de calidad
+	Descripción: Este sistema contará con información necesaria para dar un estimado de la calidad actual de los procesos de la empresa. Asimismo contará con herramientas para la automatización de la gestión de estos.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema para fidelización de clientes
+	Descripción: Este sistema se encarga de la gestión de estrategias publicitarias por medio del análisis de las tendencias de los clientes para así generar opciones de promoción efectivas y de alto impacto.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema de gestión de encuestas
+	Descripción: Este sistema permitirá automatizar el proceso de registro de encuestas así como almacenar la información de todas las encuestas de manera integral.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de análisis de encuestas
+	Descripción: Este sistema facilitará la generación de Insights a partir de la data recolectada en las encuestas así como la gestión de esa información.
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Sistema de decisión de continuidad con clientes
+	Descripción: Este sistema permite conocer el valor que tiene cada cliente y sus proyectos en la empresa para así tomar una mejor decisión sobre si continuar trabajando con ellos
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Sistema de consultoría
+	Descripción: Sistema que permite gestionar el servicio de consultoría. Conecta a la empresa con el cliente permitiéndole ver los avances, cronograma, citas para entrevistas, entre otros.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Sistema de gestión de encuestas
+Alcance: Creación de encuestas, Notificación de envío de encuestas a sucursales, Notificación de avance del proceso de encuestado, Ingreso automático de encuestas llenadas al sistema, Generación de csvs a partir de las encuestas
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de gestión de encuestas
+	Prio: 1.0  - Crit: La implementación de este sistema permitiría la agilización de este proceso core de la empresa.
+	Proyecto: Sistema de análisis de encuestas
+	Prio: 2.0  - Crit: Permite aprovechar la ventaja competitiva que la empresa tiene con las encuestas. Para su posterior uso en consultorías.
+	Proyecto: Sistema de consultoría
+	Prio: 3.0  - Crit: Permite una mejor comunicación con el cliente. Hace más eficaz y tranparente todo el segundo proceso core de la empresa.
+	Proyecto: Sistema de gestión de calidad
+	Prio: 4.0  - Crit: Permitirá encontral falencias en los procesos de la empresa así como oportunidades de mejora.
+	Proyecto: Sistema para fidelización de clientes
+	Prio: 5.0  - Crit: La continuidad de un cliente es critica ya que mientras más encuestas y consultorías se realicen a esta, más personalizada será, más se conocerá sobre esta y demandará menos esfuerzo. Es por eso que es necesario mantener a nuestro clientes recurrentes.
+	Proyecto: Sistema de decisión de continuidad con clientes
+	Prio: 6.0  - Crit: Es importante conocer el valor que genera cada cliente en la empresa puestos que anualmente se elije entre los clientes los servicios de consultoría que se realizarán y estos deberían ser lo más rentables posible sin demandar demasiado esfuerzo por parte de la empresa.
+	Proyecto: Sistema de contabilidad
+	Prio: 7.0  - Crit: Permitirá mantener un mejor control del dinero de la empresa, lo que va de la mano con la información que se usará en el sistema de decisión de continuidad.
+	Proyecto: Sistema de recursos humanos
+	Prio: 8.0  - Crit: Es importante tener un sistema que gestione el personal de la empresa para un adecuado seguimiento de estos.
+
+PREGUNTA 3D
+
+20141163-L3-V208-ARRUE-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindar servicios de auditoría, soluciones empresariales y servicios de analytics, enfocándose en las preferencias y satisfacción de los clientes y en ofrecerles servicios de alto valor agregado.
+Visión: Ser la empresa líder en latinoamérica en auditoría e investigación, brindando soluciones y colaborando con los ciudadados del país, de manera descentralizada.
+
+PREGUNTA 1B
+OEN1: Instalar sedes descentralizadas a nivel nacional - JUSTIF: Para localizarse estratégica y equitativamente en las regiones del país.
+OEN2: Obtener las preferencias y restricciones de los clientes, ampliar oferta de servicios ofrecidos y el valor agregado a sus clientes - JUSTIF: Para tener en cuenta sus gustos y e identificar opciones compartidas entre los clientes para ofrecerles mejores servicios y satisfacer sus necesidades.
+
+PREGUNTA 2A
+Misión SI: Gestionar la información del negocio de forma centralizada para ofrecer los servicios de auditoría, soluciones empresariales y analytics y brindar la flexibilidad requerida para la puesta en marcha de los nuevos planes del negocio y apoyar en los requerimientos y decisiones de la gerencia y dirección.
+Visión SI: Ser el SI líder en latinoamérica capaz de gestionar de forma centralizada la información del negocio y de los servicios de auditoría, soluciones empresariales y analytics y de contribuir a los requerimientos y decisiones de los niveles de gerencia y dirección.
+
+PREGUNTA 2B
+OESI1: Apoyar a las zonas regionales de forma independiente pero almacenar la información de manera centralizada y con alta y eficiente disponibilidad para todas las sedes - OEN: Instalar sedes descentralizadas a nivel nacional
+OESI2: Utilizar técnicas de análisis de datos (Data Analytics) con el objetivo de resaltar y obtener información más útil - OEN: Obtener las preferencias y restricciones de los clientes, ampliar oferta de servicios ofrecidos y el valor agregado a sus clientes
+
+PREGUNTA 2C
+Criterio: Costo - Beneficio
+Justificación: Serán más importantes los proyectos que sean estratégicos para la empresa y que le brinden mayores beneficios y que tengan menor costo o un costo razonable de adquisición, implementación, implantación y aprendizaje.
+
+PREGUNTA 2C
+Criterio: Costo - Beneficio
+Justificación: Serán más importantes los proyectos que sean estratégicos para la empresa y que le brinden mayores beneficios y que tengan menor costo o un costo razonable de adquisición, implementación, implantación y aprendizaje.
+
+PREGUNTA 3A
+	Proyecto: Sistema que permite gestionar la información recogida y de los procesos de la empresa de manera centralizada a través de las distintas sedes
+	Descripción: Es un sistema que almacena y brinda la información recogida de las encuestas e investigaciones y que gestiona los procesos internos de la empresa en conjunto, de manera centralizada.
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema que contribuya a los captura requerimientos y la toma de decisiones de nivel gerencial y de alta dirección
+	Descripción: Es un sistema que ayuda a capturas los nuevos requerimientos de los clientes y a tomar decisiones en base a cual es conveniente implementar.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema que automatize la realización de las encuestas y la recolección de datos
+	Descripción: Es un sistema que a través de tecnología web, inteligencia artificial o otro método permita realizar las encuestas y almacenar sus resultados automáticamente.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema que brinde los servicios de Analytics y ayude a depurar y optimizar la información almacenada
+	Descripción: Es un sistema que brinda los servicios de Análisis de Información, los cuales permiten depurar, limpiar y tomar la información más relevante para la empresa de manera que sea acesible más rápido y sea fácilmente entendida.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema que almacene y brinde los datos recolectados de encuestas e investigaciones
+	Descripción: Es un sistema que almacena los datos recolectados de la empresa y los despliega para su visualización, es clave pues de esta información dependen los servicios de la empresa.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema que realice estadísticas y gráficos y muestre indicadores sobre la información recolectada
+	Descripción: Es un sistema que ofrece resumenes visuales y diagramas que ayuden a entender la información recolectada de las encuestas e investigaciones.
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Sistema que registre el grado de trabajo de los empleados de las sedes
+	Descripción: Sistema de soporte que registra el grado de trabajo, número de encuestas, lugar y tiempo de trabajo de los encuestadores y demás trabajadores (como una planilla).
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema que apoye en la planificación de las encuestas y ofrezca recordatorios
+	Descripción: Es un sistema que ayuda a planificar los proyectos y zonas donde encuestar y que trabajos o concursos son preferibles de optar.
+	MacFarlan: Soporte - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Sistema que brinde los servicios de Analytics y ayude a depurar y optimizar la información almacenada
+Alcance: Se trabajará con los estándares establecidos por COENSA., El sistema trabajará en Windows 10., El sistema contará con un sistema de control de accesos., El sistema contará con un firewall y sistemas de seguridad., Se podrá exportar e importar data desde archivos Excel (.xls)
+Excluciones: Se contará con procesadores Intel Core I9 o los últimos en el mercado para optimizar los tiempos de respuesta., None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Sistema que permite gestionar la información recogida y de los procesos de la empresa de manera centralizada a través de las distintas sedes
+	Prio: 1.0  - Crit: Es muy urgente y necesaria pues la empresa en el corto plazo está pensando en asignar trabajos a distintas zonas regionales y se requeriŕa maneejar la misma información en toda la empresa.
+	Proyecto: Sistema que contribuya a los captura requerimientos y la toma de decisiones de nivel gerencial y de alta dirección
+	Prio: 2.0  - Crit: Es bastante prioritaria pues supone un costo bajo y la gerencia está pidiendo un sistema capaz de estudiar los nuevos requisitos de los clientes y apoyar en la dirección de la empresa.
+	Proyecto: Sistema que brinde los servicios de Analytics y ayude a depurar y optimizar la información almacenada
+	Prio: 3.0  - Crit: Es importante pues el área de Consultoría lo está solicitando pues le permitirá una mejor y más eficiente forma de administrar su información. 
+	Proyecto: Sistema que almacene y brinde los datos recolectados de encuestas e investigaciones
+	Prio: 4.0  - Crit: Es un sistema importante y, aunque costoso, necesario para la realización de los procesos principales de la empresa.
+	Proyecto: Sistema que realice estadísticas y gráficos y muestre indicadores sobre la información recolectada
+	Prio: 5.0  - Crit: Sirve en mayor medida para la gerencia y tiene un costo relativamente mayor a los demás proyectos pero es importante para saber en qué invertir y lo rentable que está siendo la empresa.
+	Proyecto: Sistema que automatize la realización de las encuestas y la recolección de datos
+	Prio: 6.0  - Crit: Sería un sistema muy útil para la empresa pues reduciría mucho sus costos al automatizar las encuestas y ahorrar en personal, viajes, materiales, etc.  SIn embargo, el proyecto es de largo plazo y muy costoso debido al nivel de tecnología que se requiere.
+	Proyecto: Sistema que apoye en la planificación de las encuestas y ofrezca recordatorios
+	Prio: 7.0  - Crit: Es un sistema que ayudaría a planificar mejor los trabajos y flujos a desarrollar, pero no son parte del core de trabajo de la empresa y por tanto no son indispensables.
+	Proyecto: Sistema que registre el grado de trabajo de los empleados de las sedes
+	Prio: 8.0  - Crit: Ayudaría a conocer a los mejores empleados de la empresa y a inventariar los costos incurridos, pero es un sistema no tan necesario en el corto plazo y fácilmente reemplazable, por el momento, por sistemas más manuales y de bajo costo.
+
+PREGUNTA 3D
+
+20150008-L3-V208-CISNEROS-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Proporcionar a nuestros clientes información de calidad para la toma de decisiones dentro de sus organizaciones 
+Visión: Ser la empresa líder en consultoría e investigación de mercado en el país.
+
+PREGUNTA 1B
+OEN1: Incrementar la cartera de servicios que ofrece la empresa - JUSTIF: Para ser la empresa líder en el mercado se debe tener una oferta de servicios capaz de satisfacer las diversas necesidades de los clientes
+OEN2: Incrementar la satisfacción de nuestros clientes - JUSTIF: Para ser la empresa líder en el mercado se debe elevar el nivel de satisfacción de nuestros clientes con el fin de fidalizarlos y mantener nuestra cuota de mercado
+
+PREGUNTA 2A
+Misión SI: Desarrollar sistemas de información eficientes y de alta calidad con el fin de apoyar tanto las operaciones diarias de la empresa como sus estrategias organizacionales
+Visión SI: Construir sistemas de información capaces de responder a las necesidades de nuestros clientes de forma inmediata y manteniendo una alta calidad
+
+PREGUNTA 2B
+OESI1: Proveer información precisa en tiempo real para decisiones de negocio - OEN: Incrementar la satisfacción de nuestros clientes
+OESI2: Incrementar la productividad y reducir los costos de los procesos del negocio - OEN: Incrementar la cartera de servicios que ofrece la empresa
+
+PREGUNTA 2C
+Criterio: Sistemas flexibles y escalables  que aumenten la eficiencia y calidad de los servicios de COENSA
+Justificación: Se necesitan sistema que garanticen la mejora de los procesos y servicios ofrecidos por COENSA para satisfacer las necesidades cambiantes del cliente. Asimismo, se requiere que crezcan el negocio y cualquier nuevo servicio que quiera ofrecer.
+
+PREGUNTA 2C
+Criterio: Sistemas flexibles y escalables  que aumenten la eficiencia y calidad de los servicios de COENSA
+Justificación: Se necesitan sistema que garanticen la mejora de los procesos y servicios ofrecidos por COENSA para satisfacer las necesidades cambiantes del cliente. Asimismo, se requiere que crezcan el negocio y cualquier nuevo servicio que quiera ofrecer.
+
+PREGUNTA 3A
+	Proyecto: Sistema de Generación de Reportes
+	Descripción: Sistema que se encarga del manejo de los resultados de las encuestas y permite la generación de gráficos y tablas a partir de ellos
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión del Talento
+	Descripción: Sistema que se encarga de la evaluación de resultados y cumplimiento de objetivos con el fin de brindar recompensas de acuerdo al rendimiento
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de Capacitación a Encuestadores
+	Descripción: Sistema que se encarga de la capacitación a encuestadores mediante manuales virtuales,así como cursos y seminarios en línea
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de Registro de Encuestas
+	Descripción: Sistema que permite a los encuestadores localizados en todo el país registrar los resultados de las encuestas realizadas. Se podrá conocer el número de encuestas que tiene asignado cada encuestador y su progreso.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de Gestión de Clientes
+	Descripción: Sistema que encarga de administrar a los clientes de la empresa y analizar sus patrones de adquisición de servicios
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Sistema de Contabilidad
+	Descripción: Sistema que se encarga de administrar los gastos e ingresos de la empresa, su principal función es la generación de estado financieros
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de Evaluación de Proyectos
+	Descripción: Sistema que se encarga de evaluar proyectos permitiendo determinar los recursos que requiere y  predecir la rentabilidad que produce
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Sistema Unificado de Monitoreo de Operaciones de la Empresa
+	Descripción: Sistema que recibe como entrada la información del resto de sistemas de la empresa y permite visualizar de forma integral y en tiempo real las operaciones del negocio
+	MacFarlan: Estratégico - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Sistema de Registro de Encuestas
+Alcance: Lista de requerimientos , Análisis técnico, Especificación de casos de uso, Prototipos, Plan de Pruebas
+Excluciones: Aseguramiento de Calidad, Manual de Soporte , Manual de Usuario, Despliegue del sistema Web, None
+Supociciones: No se ofrecerá soporte técnico despues de la aprobación del proyecto por parte del cliente, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de Registro de Encuestas
+	Prio: 1.0  - Crit: Sistema que apoya al proceso principal de la empresa, aumenta la eficiencia y la calidad del servicio al permitir el registro descentralizado y su monitoreo
+	Proyecto: Sistema de Generación de Reportes
+	Prio: 2.0  - Crit: Sistema que apoya al proceso principal de la empresa, aumenta la calidad del servicio al facilitar el análisis de la información
+	Proyecto: Sistema de Gestión de Clientes
+	Prio: 3.0  - Crit: Sistema que permitirá aumentar la calidad del servicio y ganar una ventaja competitiva al permitir identificar los patrones de consumo de los clientes
+	Proyecto: Sistema Unificado de Monitoreo de Operaciones de la Empresa
+	Prio: 4.0  - Crit: Sistema que permitirá aumentar la eficiencia de los servicios al brindar una plataforma unificada. Asimismo, ayudará a cumplir los objetivos estrategicos del negocio
+	Proyecto: Sistema de Evaluación de Proyectos
+	Prio: 5.0  - Crit: Sistema que pemitirá posiblemente aumentar la calidad de nuestros productos identificando el mejor proyecto en el que invertir
+	Proyecto: Sistema de Contabilidad
+	Prio: 6.0  - Crit: Sistema que apoya a un proceso de soporte de la empresa, aumentando su eficiencia
+	Proyecto: Sistema de Capacitación a Encuestadores
+	Prio: 7.0  - Crit: Sistema que apoya a un proceso de soporte de la empresa, aumentando su eficiencia
+	Proyecto: Sistema de Gestión del Talento
+	Prio: 8.0  - Crit: Sistema que apoya a un proceso de soporte de la empresa, aumentando su eficiencia
+
+PREGUNTA 3D
+
+20150514-L3-V208-GONZALES-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Facilitar y asegurar consultoría, análisis de datos y obtención de información pública rápida, de calidad y con alto grado de certeza.
+Visión: Ser líder regional en obtención y consultoría, análisis de información, con desarrollo en investigación y análisis de los mismos.
+
+PREGUNTA 1B
+OEN1: Aseguramiento de calidad y verificación de la información obtenida y desarrollada. - JUSTIF: Al realizar estos controles se asegura al cliente una calidad en los reportes, y producto de ello una consultoría en general mejor.
+OEN2: Generación de nuevas funciones en la información entragada al cliente. - JUSTIF: La generación de nuevos datos analíticos a partir de los datos que ya se presentan representan más valor al negocio y relación con los clientes.
+
+PREGUNTA 2A
+Misión SI: Estandarizar y automatizar la obtención y procesamiento de información.
+Visión SI: Ser el mejor SI integrado en obtención y análisis de datos interno y externos, con capacidad de adaptación acorde al cliente.
+
+PREGUNTA 2B
+OESI1: Maximizar productividad y reducir costos de operación. - OEN: Aseguramiento de calidad y verificación de la información obtenida y desarrollada.
+OESI2: Entregar un valor agregado en el producto desarrollado a los clientes. - OEN: Generación de nuevas funciones en la información entragada al cliente.
+
+PREGUNTA 2C
+Criterio: FIFO
+Justificación: Debido a que los proyectos están relacionados con el flujo de trabajo que se tiene en la empresa, se considera que que el primero involucrado debería ser el primero en ser desarrollado.
+
+PREGUNTA 2C
+Criterio: FIFO
+Justificación: Debido a que los proyectos están relacionados con el flujo de trabajo que se tiene en la empresa, se considera que que el primero involucrado debería ser el primero en ser desarrollado.
+
+PREGUNTA 3A
+	Proyecto: Sistema de reportes de análisis de datos
+	Descripción: El sistema generará la nueva función de realizar un análisis sobre la información ya obtenida y digitalizada.
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Sistema de manejo de recursos para sedes regionales y central
+	Descripción: El sistema ayudará en el manejo de recursos (materiales y humanos) de manera óptima en las distintas sedes a nivel nacional.
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de recolección automática de datos de encuestas.
+	Descripción: El sistema ayudará en la automatización de la recolección digital de encuentas a nivel nacional.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de satisfacción de nuevas características en el producto
+	Descripción: El sistema sería capaz de recopilar la satisfacción de los clientes frente a nuevas características ofrecidas en su producto (como análisisde datos.
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: Proyecto5
+	Descripción: None
+	MacFarlan: None - Tipo None
+
+	Proyecto: Proyecto6
+	Descripción: None
+	MacFarlan: None - Tipo None
+
+	Proyecto: Proyecto7
+	Descripción: None
+	MacFarlan: None - Tipo None
+
+	Proyecto: Proyecto8
+	Descripción: None
+	MacFarlan: None - Tipo None
+
+PREGUNTA 3B
+Proyecto: Sistema de reportes de análisis de datos
+Alcance: Reporte de indicadores más destacables en a industria., Personalización al indicar que indicadores considerar para los reportes, None, None, None
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+	Proyecto: None
+	Prio: None  - Crit: None
+
+PREGUNTA 3D
+
+20150797-L3-V208-CARO-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Prestar un servicios de asesoría y encuesta que supongan un valor añadido para las empresas clientes, a fin de mejorar su satisfacción y la calidad e innovación de los productos y servicios que ofrecen.
+Visión: Ser la encuestadora mas eficaz y con mayor presencia en el mercado de Peru
+
+PREGUNTA 1B
+OEN1: Consolidar la presencia de COENSA a nivel nacional - JUSTIF: Este objetivo va de acuerdo a la intencion de la alta gerencia de descentralizar el proceso de informacion para poder atender de manera optima y mas eficientemente casos fuera de la capital
+OEN2: Ofrecer mayor variedad de servicios, sin descuidar la calidad de los ya ofrecidos - JUSTIF: Dado que se ha ido obteniendo mas presencia en el mercado nacional, es una buena oportunidad llevar el negocio a un nivel de analisis mas profundo, pero sin descuidar la calidad de los servicios claves del negocio
+
+PREGUNTA 2A
+Misión SI: Uniformizar la informacion relacionada a la empresa en un solo sistema que de soporte las actividades acuales del negocio, asi como contar con la flexibilidad necesaria para futuros camios
+Visión SI: Ser uno de los referentes mundiales en el uso de sistemas de información a empresas encuestadoras y consultoras de manera eficaz y eficiente
+
+PREGUNTA 2B
+OESI1: Dar soporte no unicamente a los procesos operacionales propios del negocio, sino que se logre un apoyo a todo nivel de la empresa  - OEN: Consolidar la presencia de COENSA a nivel nacional
+OESI2: Tener la informacion siempre disponible cuando sea necesaria, y que esta siempre cuente con la integridad correspondiente - OEN: Ofrecer mayor variedad de servicios, sin descuidar la calidad de los ya ofrecidos
+
+PREGUNTA 2C
+Criterio: Priorizacion por objetivos de negocio
+Justificación: Este criterio busca priorizar aquel proyecto que tenga mas impacto sobre alguno de los objetivos estrategicos. Se opto por este criterio ya que de acuerdo a la mision y vision se prioriza mejorar en servicio por sobre obtener rentabilidad u otras metas, por lo que la manera mas adecuada de lograrlas es atacando a los objetivos estrategicos directamente.
+
+PREGUNTA 2C
+Criterio: Priorizacion por objetivos de negocio
+Justificación: Este criterio busca priorizar aquel proyecto que tenga mas impacto sobre alguno de los objetivos estrategicos. Se opto por este criterio ya que de acuerdo a la mision y vision se prioriza mejorar en servicio por sobre obtener rentabilidad u otras metas, por lo que la manera mas adecuada de lograrlas es atacando a los objetivos estrategicos directamente.
+
+PREGUNTA 3A
+	Proyecto: Sistema de gestion de relacion con el cliente
+	Descripción: Permitirá una mayor comunicación con el cliente, identificando sus preferencias y disgustos, para tener esta informacion en cuenta a la hora de atenderlos, asi como para identificar opciones que sean compartidos con otros
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Sistema de informacion orientado a dar seguimiento a los servicios en proceso 
+	Descripción: Este sistema mejorará en la eficiencia del procesamiento de la información por el lado de la calidad del producto terminado. El cual tras un seguimiento constante tendra menos probabilidades de tener errores no detectados
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Sistema de informacion orientado al analisis de datos
+	Descripción: Como respuesta al nuevo servicio "Analytics" es necesario contar con una herramienta capaz de procesar datos, para la obtencion de los resultados esperados. Brindara mayor calidad al producto final
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Sistema de informacion gerencial para analisis de informacion y generacion de reportes que ayuden en la toma de desiciones
+	Descripción: Una plana gerencial mejor informada sobre la situacion actual de la empresa, está en la capacidad de planificar el rumbo que debe seguir para la mejora continua del negocio
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema de informacion orientado a la comunicacion rapida y eficaz entre los colaboradores de COENSA
+	Descripción: Este sistema apoyara en mejorar los tiempos de procesamiento de la informacion, pues con mayor comunicación los colaboradores pueden mejorar su eficiencia.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de contabilidad
+	Descripción: Herramienta que perimitira ademas de mejorar la eficiencia y eficacia del area de contabilidad, tambien permitira llevar un registrode la informacion contable de la empresa de manera optimo
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Consolidacion de los sistemas de informacion de varias plantas
+	Descripción: Sistema de apoyo gerencial, capaz de procesar los datos correspondientes a todas las plantas para su futuro procesamiento y conversion a informacion relevante
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Sistema de informacion para la gestion de recursos humanos
+	Descripción: Sistema que permitira dar seguimiento a todo lo relacionado a la gestion de recursos humanos: control de horas laborales, pago a planillas, gestion de dias no laborales, vacaciones de operarios, programacion de horarios, etc.
+	MacFarlan: Soporte - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Sistema de gestion de relacion con el cliente
+Alcance: Solución preliminar, Análisis Técnico, Documento de casos de uso, Documento de arquitectura, Documento de requerimientos de arquitectura
+Excluciones: Plan de pruebas, Código fuente de la solución, Manual de soporte, Manual de usuario, None
+Supociciones: Desconocimiento por parte del equipo de desarrollo de la tecnologia a emplear, None
+
+PREGUNTA 3C
+	Proyecto: Sistema de informacion orientado al analisis de datos
+	Prio: 1.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de informacion gerencial para analisis de informacion y generacion de reportes que ayuden en la toma de desiciones
+	Prio: 2.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de informacion orientado a dar seguimiento a los servicios en proceso 
+	Prio: 3.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de gestion de relacion con el cliente
+	Prio: 4.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Consolidacion de los sistemas de informacion de varias plantas
+	Prio: 5.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de informacion orientado a la comunicacion rapida y eficaz entre los colaboradores de COENSA
+	Prio: 6.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de informacion para la gestion de recursos humanos
+	Prio: 7.0  - Crit: Priorizacion por objetivos de negocio
+	Proyecto: Sistema de contabilidad
+	Prio: 8.0  - Crit: Priorizacion por objetivos de negocio
+
+PREGUNTA 3D
+
+2015110-L3-V208-BajarPuntos.xlsx
+PREGUNTA 1A
+Misión: Brindar servicios de obtención, análisis y presentación de información de calidad a nuestros clientes para asesorarlos en la toma de decisiones
+Visión: Ser la empresa número uno de encuestas a nivel nacional
+
+PREGUNTA 1B
+OEN1: Mejorar el tiempo de respuesta de procesos internos - JUSTIF: Actualmente, se están requiriendo una diversidad de resúmenes e informes de información dentro de la empresa para la toma de decisiones. Por ellos, es importante la elaboración rápida y eficiente de estos.
+OEN2: Mejorar la calidad de procesos de información - JUSTIF: Actualmente, se producen una cierta cantidad de procesos a nivel manual, abriendo paso a errores. Además, la comunicación entre las sedes es ineficiente, perdiendo trazabilidad y tiempo para enviar la información.
+
+PREGUNTA 2A
+Misión SI: Brindar soporte de SI al proceso de análsis de datos de las encuestas e información de proyectos anteriores. Además, unificar procesos e infomración mediante innovación tecnológica que ayude a promover el crecimiento económico sostenido para así proveer un servicio de claidad para los clientes.
+Visión SI: Ser el Sistema de Información reconocido mundialmente que unifique información de distintas regiones a nivel nacional
+
+PREGUNTA 2B
+OESI1: Integrar los módulo utilizados en la empresa, a fin de resguardar la integridad de la información utilizada en los procesos de COENSA S.A. - OEN: None
+OESI2: Minimizar el riesgo de la compañía por medio de nuevas y sólidas tecnologías, no tecnología anticuada. - OEN: None
+
+PREGUNTA 2C
+Criterio: Cantidad*Criticidad de objetivos del negocio alcanzados
+Justificación: Se priorizarán los proyectos que abarquen la mayor cantidad de objetivos del negocio alcanzados, ya que se obtendrán de este manera los proyectos más importantes a realizarse de acuerdo a las necesidades que más necesita el negocio
+
+PREGUNTA 2C
+Criterio: Cantidad*Criticidad de objetivos del negocio alcanzados
+Justificación: Se priorizarán los proyectos que abarquen la mayor cantidad de objetivos del negocio alcanzados, ya que se obtendrán de este manera los proyectos más importantes a realizarse de acuerdo a las necesidades que más necesita el negocio
+
+PREGUNTA 3A
+	Proyecto: Sistema de Gestion de Relación con el Cliente
+	Descripción: Permitirá una mayor comunicación con el cliente,identificando sus preferencias y disgustos, promocionando los productos favoritos por sus clientes.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Sistema de auditoría para los procesos de negocio
+	Descripción: Se podrá registrar el accesso al personalinvolucrado y su participación en el proceso, con el fin de garantizar transaparencia en sus actividades
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Proyecto de Sistema de seguimiento de indices de relación con el personal
+	Descripción: Este proyecto procesa información de la empresa para evaluar la relación con el personal
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Proyecto de sistema de uniformización de recolección de datos de campo de encuestas
+	Descripción: Es un sistema de administración de la información para la estandarización de información de categorias similares
+	MacFarlan: Clave para Operar - Tipo "MIS"
+
+	Proyecto: Proyecto de automatización de procesos de resúmenes de márgenes financieros para el Directorio de COENSA asistido por el usuario
+	Descripción: Es un sistema que ayuda en la toma de decisiones para el Directorio de COENSA, mediante información como rendimiento laboral y márgenes financieros
+	MacFarlan: Clave para Operar - Tipo "DSS"
+
+	Proyecto: Proyecto de sistema de automatización de procesamiento de datos asistido por el usuario para la obtención de información relevante para el cliente
+	Descripción: Es un sistema que ayuda en la toma de decisión de que técnica de procesamiento de datos es la mejor para obtener la información más relevante para el cliente
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Proyecto de sistema de mensajería instantánea
+	Descripción: Es un sistema de administración de la información a nivel empresarial entre sus sedes
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Proyecto de implementación de sistema de aseguramiento de calidad y respaldo de información de data de campo de encuestas
+	Descripción: Es un sistema de procesamiento interno de la empresa para asegurar la calidad de los datos recibidos en las encuestas, así como su respaldo ante cualquier eventualidad
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Proyecto de sistema de uniformización de recolección de datos de campo de encuestas
+Alcance: Con los trabajadores, Con el establecimiento de precesos de recolección de datos, Con los proveedores, Con los encuestados, None
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Proyecto de sistema de uniformización de recolección de datos de campo de encuestas
+	Prio: 1.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Proyecto de automatización de procesos de resúmenes de márgenes financieros para el Directorio de COENSA asistido por el usuario
+	Prio: 2.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Sistema de Gestion de Relación con el Cliente
+	Prio: 3.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Proyecto de sistema de automatización de procesamiento de datos asistido por el usuario para la obtención de información relevante para el cliente
+	Prio: 4.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Sistema de auditoría para los procesos de negocio
+	Prio: 5.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Proyecto de implementación de sistema de aseguramiento de calidad y respaldo de información de data de campo de encuestas
+	Prio: 6.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Proyecto de sistema de mensajería instantánea
+	Prio: 7.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+	Proyecto: Proyecto de Sistema de seguimiento de indices de relación con el personal
+	Prio: 8.0  - Crit: Cantidad*Criticidad de objetivos del negocio alcanzados
+
+PREGUNTA 3D
+Si hay project
+
+20151191-L3-V208-AVILA-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Atender la mayor cantidad de clientes posible de manera sostenible.
+Visión: Ser la empresa encuestadora más grande del país.
+
+PREGUNTA 1B
+OEN1: Incrementar la presencia de la empresa en provincias. - JUSTIF: Como se indica en el caso, hay varias empresas en provincias que requieren nuestros servicios, por lo que aumentando la presencia alli asegura la sostenibilidad de las operaciones en el tiempo.
+OEN2: Descentralizar las operaciones. - JUSTIF: Como se han instaurado sedes regionales, es seguro asumir que un objetivo de la empresa es el de descentralizar las laborales de la empresa, esto puede ayudar a ser la empresa encuestadora más grande del país
+
+PREGUNTA 2A
+Misión SI: Tener toda la información requerida para la operación actual del negocio y que sea flexible como para apoyar la puesta en marcha de nuevos planes de negocio
+Visión SI: El sistema de información no debe servir solo de soporte, tiene que contibruir a ser un apoyo eficaz y eficiente a los requerimientos y decisiones de los niveles de gerencia y alta dirección.
+
+PREGUNTA 2B
+OESI1: Que la información este disponible en todas las sedes regionales del país. - OEN: Descentralizar las operaciones.
+OESI2: El sistema debe poder ser usado fácilmente por todo tipo de usuarios en el país. - OEN: Incrementar la presencia de la empresa en provincias.
+
+PREGUNTA 2C
+Criterio: Por objetivos del negocio.
+Justificación: Si sigue los objetivos del negocio, se seguirán la visión de SI y su misión.
+
+PREGUNTA 2C
+Criterio: Por objetivos del negocio.
+Justificación: Si sigue los objetivos del negocio, se seguirán la visión de SI y su misión.
+
+PREGUNTA 3A
+	Proyecto: Proyecto1
+	Descripción: Sistema de registro de encuestas
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Proyecto2
+	Descripción: Sistema de comunicación entre sedes
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Proyecto3
+	Descripción: Sistema de planilla 
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Proyecto4
+	Descripción: Sistemas de ofimática 
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Proyecto5
+	Descripción: Sistema CRM 
+	MacFarlan: Estratégico - Tipo "DSS"
+
+	Proyecto: Proyecto6
+	Descripción: Sistema de analytics
+	MacFarlan: Alto Potencial - Tipo "MIS"
+
+	Proyecto: Proyecto7
+	Descripción: Sistema de recabado de encuestas virtual
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Proyecto8
+	Descripción: Sistema de agrupamiento de preferencias de clientes
+	MacFarlan: Estratégico - Tipo "MIS"
+
+PREGUNTA 3B
+Proyecto: Proyecto1
+Alcance: Módulo de vista de encuestas., Módulo de escritura de información de encuestas., Análisis de requerimientos., Diseño del software., Guía del usuario.
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: None
+	Prio: 1.0  - Crit: None
+	Proyecto: None
+	Prio: 2.0  - Crit: None
+	Proyecto: Proyecto7
+	Prio: 3.0  - Crit: Por objetivos del negocio.
+	Proyecto: Proyecto6
+	Prio: 4.0  - Crit: Por objetivos del negocio.
+	Proyecto: Proyecto4
+	Prio: 5.0  - Crit: Por objetivos del negocio.
+	Proyecto: Proyecto3
+	Prio: 6.0  - Crit: Por objetivos del negocio.
+	Proyecto: Proyecto8
+	Prio: 7.0  - Crit: Por objetivos del negocio.
+	Proyecto: Proyecto5
+	Prio: 8.0  - Crit: Por objetivos del negocio.
+
+PREGUNTA 3D
+
+20152131-L3-V208-GONZALES-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindamos un servicio de calidad con resultados confiables
+Visión: Ser la consultora y encuestadora más grande y con mayor fiabilidad en el Perú 
+
+PREGUNTA 1B
+OEN1: Aumentar el porcentaje de mercado atendido obteniendo la lealtad de los clientes - JUSTIF: Al conseguir la lealtad de los clientes fortalece el dominio en el mercado y genera una ventaja competitiva.
+OEN2: Obtener una comunicación eficaz entre las diversas sedes - JUSTIF: Al contar con una comunicación eficaz entre las diversas sedes se mejorará la calidad de la información y se agilizará el servicio.
+
+PREGUNTA 2A
+Misión SI: Desarrollar y mantener soluciones que provean una recolección, guardado y acceso confiable a la información.
+Visión SI: Cualquiera debe poder acceder a cualquier información en cualquier lugar, momento y forma considerando la seguridad adecuada.
+
+PREGUNTA 2B
+OESI1: Proveer información pertinente para las decisiones del negocio en cualquier momento, cualquier lugar y para cualquiera sin incumplir los protocolos de seguridad - OEN: Obtener una comunicación eficaz entre las diversas sedes
+OESI2: Proveer soporte, guía y consejos a todas las áreas del negocio. La asistencia incluirá  el uso de aplicaciones y tecnologías además de recomendaciones en mejora de procesos. - OEN: Aumentar el porcentaje de mercado atendido obteniendo la lealtad de los clientes
+
+PREGUNTA 2C
+Criterio: Alineación con objetivos de negocio
+Justificación: Para lograr un crecimiento constante es necesario cumplir con los objetivos fijados por la alta dirección y priorizar los proyectos que generen mayor impacto en su cumplimiento. Siempre y cuando no haya dependencia entre los proyectos.
+
+PREGUNTA 2C
+Criterio: Alineación con objetivos de negocio
+Justificación: Para lograr un crecimiento constante es necesario cumplir con los objetivos fijados por la alta dirección y priorizar los proyectos que generen mayor impacto en su cumplimiento. Siempre y cuando no haya dependencia entre los proyectos.
+
+PREGUNTA 3A
+	Proyecto: Módulo de análisis de datos
+	Descripción: En este módulo se realiza el procesamiento de las encuestas para brindar información útil a través de técnicas de data analytics.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Módulo de registro de encuestas
+	Descripción: En este módulo se permite el registro de las encuestas al SI de la empresa para su posterior procesamiento.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Módulo de gestión de desarrollo humano
+	Descripción: En este módulo se gestiona los recursos humanos en planilla y se organizan campañas o eventos de motivación a los trabajadores.
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Módulo de Contabilidad
+	Descripción: En este módulo se realizan los estados financieros necesarios para visualizar la situación de la empresa y su respectiva regulación.
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Módulo de colaboración y trabajo en equipo
+	Descripción: En este módulo se brinda herramientas para facilitar la comunicación entre las diversas áreas y equipos.
+	MacFarlan: Alto Potencial - Tipo "MIS"
+
+	Proyecto: Módulo de inteligencia de negocios
+	Descripción: En este módulo se realiza un análisis de la situación del negocio para encontrar oportunidades de mejora.
+	MacFarlan: Alto Potencial - Tipo None
+
+	Proyecto: Módulo de CRM
+	Descripción: En este módulo se mantiene la relación con los clientes y potenciales clientes además de realizar análisis para brindar un servicio adecuado y pertinente.
+	MacFarlan: Estratégico - Tipo "MIS"
+
+	Proyecto: Módulo de toma de decisiones
+	Descripción: En este módulo se procesa la información de la empresa y se muestra en reportes y gráficos para facilitar la toma de decisiones de la alta dirección.
+	MacFarlan: Estratégico - Tipo "DSS"
+
+PREGUNTA 3B
+Proyecto: Módulo de CRM
+Alcance: Registro de información de los clientes, Actualización de la información de los clientes, Eliminación de la información de los clientes, Análisis de la información de los clientes, Protocolos de seguridad de la información y datos personales
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Módulo de CRM
+	Prio: 1.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de registro de encuestas
+	Prio: 1.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de análisis de datos
+	Prio: 2.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de Contabilidad
+	Prio: 2.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de gestión de desarrollo humano
+	Prio: 3.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de toma de decisiones
+	Prio: 4.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de colaboración y trabajo en equipo
+	Prio: 5.0  - Crit: Alineación con objetivos de negocio
+	Proyecto: Módulo de inteligencia de negocios
+	Prio: 6.0  - Crit: Alineación con objetivos de negocio
+
+PREGUNTA 3D
+Si hay project
+
+20152252-L3-V208-VARGAS-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Ofrecer servicios de auditoría, encuestas y analytics. Teniendo como principal objetivo el compromiso la satisfacción de nuestros clientes y trabajadores a nivel nacional.
+Visión: Ser la empresa encuestadora y de auditoría líder en el Perú. Brindando servicios alrededor de la nación y siendo un referente para las nuevas empresas por venir. 
+
+PREGUNTA 1B
+OEN1: Descentralizar la sede principal - JUSTIF: Ya que se está ampliando la cartera de clientes y ahora es nacional, es menester distribuirlo estratégicamente alrededor de la nación y no enfocarlo todo en una sede. Ya que esto produciría un cuello de botella y aplazarían las fechas de entrega.
+OEN2: Brindar el servicio de Analytics - JUSTIF: Al brindar este servicio, sería un diferenciador frente a las otras empresas. Así se podría atraer nuevos clientes para poder expandirse de manera más rápida.
+
+PREGUNTA 2A
+Misión SI: Gestionar y facilitar los procesos principales de COENSA.  Aumentando la productividad y la certeza de la información dentro de la empresa.
+Visión SI: Ser el SI líder de las empresas del rubro de auditoría. Siendo escalable y flexible para poder trabajar con otros SI de diferentes empresas y que sirva de soporte para la gerencia y alta dirección.
+
+PREGUNTA 2B
+OESI1: Facilitar la consulta de información en la empresa - OEN: Brindar el servicio de Analytics
+OESI2: Gestionar la información de cada sede de manera independiente - OEN: Descentralizar la sede principal
+
+PREGUNTA 2C
+Criterio: Costo-Beneficio
+Justificación: Al tener el criterio de costo-beneficio se podrá tener resultados a menor costo con mayores beneficios. Esto es menester en una empresa en crecimiento.
+
+PREGUNTA 2C
+Criterio: Costo-Beneficio
+Justificación: Al tener el criterio de costo-beneficio se podrá tener resultados a menor costo con mayores beneficios. Esto es menester en una empresa en crecimiento.
+
+PREGUNTA 3A
+	Proyecto: SI que almacene información sensible de los clientes y las pueda procesar
+	Descripción: Como se requiere almacenar la información de los clientes, se necesita un SI que satisfaga esta necesidad. Por ello, se implementará un SI que pueda almacenar, procesar y mostrar esta información.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: SI que apoye con las estadísticas de las encuestas
+	Descripción: No solo es necesario un SI que almacene las encuestas, también deben ser transformadas a métricas y estadísticas para poderse mostrar a los clientes ya que finalmente es lo que quieren ver. Al tener métricas se pueden tener como un input para siguientes trabajos de auditoría.
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: SI de finanzas
+	Descripción: Toda empresa necesita un SI que gestione finanzas, y como la empresa está creciendo es la oportunidad perfecta para implementarlo.
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: SI que mida el rendimiento y la productividad de los trabajadores por sede
+	Descripción: Como la empresa está teniendo más clientes, es necesario que haya un control y resumen del personal por sede para tomar acciones correctivas de ser necesarias con anticipación.
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: SI que brinde los servicios de Analytics
+	Descripción: La gerencia desea brindar el plus de Analytics para diferenciar a COENSA con otras empresas. Por ello, se necesita un SI que facilite este servicio y brinde la calidad de información con la que se ha caracterizado COENSA.
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: SI que ayude con la toma de decisiones en la empresa a nivel gerencial
+	Descripción: La gerencia también ha pedido un SI que no solo sea útil para los procesos principales, sino también para la toma de decisiones a alto nivel. Por ello, es necesario implementar este SI para poder expandirse de manera más eficiente e inteligente. Teniendo este SI de toma de ayuda en la toma de decisiones la expansión se dará de forma más natural.
+	MacFarlan: Alto Potencial - Tipo "DSS"
+
+	Proyecto: SI que automatice el control de calidad de los servicios de auditoría
+	Descripción: Ya que COENSA está aumentado su cartera de clientes, se están haciendo más trabajos en simultáneo. Por ello, es imprescindible este SI para garantizar la calidad de los servicios ofrecidos.
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: SI que pueda gestionar los procesos internos de una sede, así como su procesamiento de datos
+	Descripción: Al estarse expandiendo de manera rápida a nivel nacional, se necesita gestionar cada sede de manera independiente. Por ello, un SI que no necesite de una sede principal para operar evitará los cuellos de botella que puedan existir al solo contar con una sede y administrar toda la información allí.
+	MacFarlan: Estratégico - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: SI que almacene información sensible de los clientes y las pueda procesar
+Alcance: Se trabajará con un formato establecido por COENSA., Se tendrá de almacenamiento 500 TB de información como máximo., El SI trabajará bajo el sistema operativo Windows 7 o superior., El SI vendrá con un sistema de seguridad integrado para evitar hackeos de la data sensible., Se podrán hacer consultas desde la web.
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: No se entregará ningún otro software adicional que no se haya mencionado dentro del alcance, None
+
+PREGUNTA 3C
+	Proyecto: SI que almacene información sensible de los clientes y las pueda procesar
+	Prio: 1.0  - Crit: Es un requisito que está pidiendo la gerencia y es clave para seguir operando. Esta es la razón por la cual está en este puesto.
+	Proyecto: SI que apoye con las estadísticas de las encuestas
+	Prio: 2.0  - Crit: Ya que nuestro servicio principal ha sido las encuestas, es bueno un SI que apoye en este rubro para ver resultados en los trabajos en curso.
+	Proyecto: SI que pueda gestionar los procesos internos de una sede, así como su procesamiento de datos
+	Prio: 3.0  - Crit: Este SI tendrá que ser más personalizado y tomará un poco más de tiempo, pero es necesario implementarlo para que cada sede sea autónoma y puedan funcionar de manera más eficiente sin cuellos de botella. 
+	Proyecto: SI que mida el rendimiento y la productividad de los trabajadores por sede
+	Prio: 4.0  - Crit: Este SI tendrá poco tiempo de implementación ya que existe varios en el mercado. Se podrá tener beneficios instantáneos y ver en qué sede se está teniendo menos productividad.
+	Proyecto: SI de finanzas
+	Prio: 5.0  - Crit: También este SI tendrá poco tiempo de implementación. De esta manera se podrá automatizar las finanzas, reduciendo los posibles errores por ingreso manual al sistema. De esta manera se puede enfocar el trabajo en los procesos importantes de la empresa.
+	Proyecto: SI que automatice el control de calidad de los servicios de auditoría
+	Prio: 6.0  - Crit: Luego de implementar la autonomía de cada sede, es necesario canalizar los recursos en asegurar la calidad en cada sede. Por ello, se procederá a implementar este proyecto.
+	Proyecto: SI que brinde los servicios de Analytics
+	Prio: 7.0  - Crit: Ya que es un nuevo servicio a implementar para diferenciarse. Tendrá un impacto a futuro ya que los clientes que vendrían por este servicio tomarán tiempo en fidelizarse.
+	Proyecto: SI que ayude con la toma de decisiones en la empresa a nivel gerencial
+	Prio: 8.0  - Crit: Una vez consolidada la empresa con todos los items anteriores, se necesitará este SI para crecer como empresa en haras de ser internacional. Pero esto es a muy largo plazo ya que se quiere poder controlar lo que ya se tiene actualmente.
+
+PREGUNTA 3D
+
+20153018-L3-V208-DIAZ-PREVIO.xlsx
+PREGUNTA 1A
+Misión: Brindar a nuestros clientes el servicio de obtención de información clave y personalizada para sus procesos específicos además de asesoramiento en asuntos de marketing, organización, fiscalidad, entre otros.
+Visión: Ser la mejor consultora y encuestadora del Perú.
+
+PREGUNTA 1B
+OEN1: Diversificación de la oferta a través de canales digitales - JUSTIF: Permite brindar sevicios de mayor calidad
+OEN2: Descentralización de las operaciones  - JUSTIF: Permite brindar servicios a mayor cantidad de clientes
+
+PREGUNTA 2A
+Misión SI: Desarrollar, implementar y mantener sistemas de negocio eficientes y de alta calidad que provean de información necesaria, oportuna e importante y brinde apoyo a las operaciones diarias y para el cumplimiento de los objetivos estrategicos del negocio
+Visión SI: El grupo de SI es una parte esencial y valiosa para la empresa
+
+PREGUNTA 2B
+OESI1: Proveer soporte de TI a todas las áreas del negocio - OEN: Diversificación de la oferta a través de canales digitales
+OESI2: Extender el alcance de los servicios de TI del negocio - OEN: Descentralización de las operaciones 
+
+PREGUNTA 2C
+Criterio: Por objetivos de negocio 
+Justificación: Por la importancia de mantener los objetivos de negocio alineados con el estado actual y futuro de la empresa, que se verá plasmado en los proyectos a ejecutar
+
+PREGUNTA 2C
+Criterio: Por objetivos de negocio 
+Justificación: Por la importancia de mantener los objetivos de negocio alineados con el estado actual y futuro de la empresa, que se verá plasmado en los proyectos a ejecutar
+
+PREGUNTA 3A
+	Proyecto: Centralización de la base de datos
+	Descripción: La información manejada por la empresa debe tener un formato definido y ser de la calidad necesaria para su explotación futura
+	MacFarlan: Estratégico - Tipo "EDP"
+
+	Proyecto: Implementación de un sistema de manejo de personal
+	Descripción: El manejo de personal será importante para mantener los recursos humanos de las diferentes sedes
+	MacFarlan: Soporte - Tipo "EDP"
+
+	Proyecto: Sistema de análisis de preferencias de clientes
+	Descripción: Tener información de las preferencias o restricciones de los clientes para ofrecer mayor satisfacción en los servicios
+	MacFarlan: Alto Potencial - Tipo "MIS"
+
+	Proyecto: Sistema de apoyo a las operaciones
+	Descripción: Contener información requerida para la operación del negocio y apoyar con los nuevos planes del negocio
+	MacFarlan: Soporte - Tipo "MIS"
+
+	Proyecto: Sistema de apoyo a la decision gerencial
+	Descripción: Contener información del estado actual del negocio y que sirva de apoyo a las decisiones de la gerencia y alta dirección
+	MacFarlan: Soporte - Tipo "DSS"
+
+	Proyecto: Servicios de analítica de información
+	Descripción: Diseñar e implementar el servicio de analítica de la información 
+	MacFarlan: Alto Potencial - Tipo "EDP"
+
+	Proyecto: Digitalización y descentralización de puntos de acopio de información
+	Descripción: Se necesita una extenseión en las sedes que proveen estos servicios 
+	MacFarlan: Clave para Operar - Tipo "EDP"
+
+	Proyecto: Servicio web para la consulta de información
+	Descripción: Consultas de información que se pueden realizar desde cualquier parte del Perú
+	MacFarlan: Soporte - Tipo "EDP"
+
+PREGUNTA 3B
+Proyecto: Centralización de la base de datos
+Alcance: Creación de bases de datos inexistentes, Unificacion de bases de datos existentes, Solo en áreas correspondientes a las operaciones, Incluir solo el modelado de la información mas no la digitalizacion, None
+Excluciones: None, None, None, None, Exclusiones
+Supociciones: None, None
+
+PREGUNTA 3C
+	Proyecto: Centralización de la base de datos
+	Prio: 1.0  - Crit: Por objetivos de negocio 
+	Proyecto: Digitalización y descentralización de puntos de acopio de información
+	Prio: 1.0  - Crit: Por objetivos de negocio 
+	Proyecto: Servicios de analítica de información
+	Prio: 2.0  - Crit: Por objetivos de negocio 
+	Proyecto: Sistema de análisis de preferencias de clientes
+	Prio: 2.0  - Crit: Por objetivos de negocio 
+	Proyecto: Sistema de apoyo a la decision gerencial
+	Prio: 3.0  - Crit: Por objetivos de negocio 
+	Proyecto: Sistema de apoyo a las operaciones
+	Prio: 4.0  - Crit: Por objetivos de negocio 
+	Proyecto: Servicio web para la consulta de información
+	Prio: 5.0  - Crit: Por objetivos de negocio 
+	Proyecto: Implementación de un sistema de manejo de personal
+	Prio: 5.0  - Crit: Por objetivos de negocio 
+
+PREGUNTA 3D
+
