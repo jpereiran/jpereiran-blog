@@ -47,10 +47,10 @@ def image_to_pixel_art(image_path, number_of_colors, number_of_pixels, canvas_ma
 	small_img=rgb_im.resize((width_f,height_f),Image.BILINEAR)
 
 	final_image=small_img.resize((width,height),Image.NEAREST)
-	final_image.save(image_path.split('.')[0] + '_pixel_' + str(number_of_pixels) + '.' + image_path.split('.')[1]) 
+	final_image.save(image_path.split('.')[0] + '_pixel_' + str(number_of_pixels) + '_' + str(number_of_colors) + '.' + image_path.split('.')[1]) 
 
 	#Create our .xls file with one sheet
-	workbook = xlsxwriter.Workbook(image_path.split('.')[0] + '_pixel_'+ str(number_of_pixels) +'.xlsx')
+	workbook = xlsxwriter.Workbook(image_path.split('.')[0] + '_pixel_'+ str(number_of_pixels) + '_' + str(number_of_colors) +'.xlsx')
 	worksheet = workbook.add_worksheet('Image')
 	worksheet_2 = workbook.add_worksheet('Color Map')
 
@@ -72,3 +72,14 @@ def image_to_pixel_art(image_path, number_of_colors, number_of_pixels, canvas_ma
 			worksheet.write(x, i, '', cell_format)
 			worksheet_2.write(x, i, str(color))
 	workbook.close()
+	
+	
+image_to_pixel_art('damngina.jpg',6,8,695)
+image_to_pixel_art('damngina.jpg',12,8,695)
+image_to_pixel_art('damngina.jpg',16,8,695)
+image_to_pixel_art('damngina.jpg',6,16,695)
+image_to_pixel_art('damngina.jpg',12,16,695)
+image_to_pixel_art('damngina.jpg',16,16,695)
+image_to_pixel_art('damngina.jpg',6,32,695)
+image_to_pixel_art('damngina.jpg',12,32,695)
+image_to_pixel_art('damngina.jpg',16,32,695)
